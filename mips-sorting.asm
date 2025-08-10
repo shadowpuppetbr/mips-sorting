@@ -1,3 +1,4 @@
+# Gustavo dos Santos Leon e Gustavo Kopereck
 .data
 vetorPadrao:     12,43,65,32,76, 12, 23, 76, 67, 23, 98, 32, 1, 4, 68, 95, 44, 15, 46, 23, 76, 6, 88, 2, 37, 0, 99, 13, 65, 29, 74, 82, 33, 50
 novalinha:      .asciiz "\n"
